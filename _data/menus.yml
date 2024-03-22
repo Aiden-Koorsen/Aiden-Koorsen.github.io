@@ -1,0 +1,15 @@
+- title: home
+  url: /
+  external: false
+
+- title: blogs
+  url: /blogs/
+  external: false
+
+- title: about
+  url: /about/
+  external: false # set true if you using external link, see below
+
+- title: portfolio
+  url: /portfolio/
+  external: false

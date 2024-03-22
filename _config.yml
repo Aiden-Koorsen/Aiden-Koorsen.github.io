@@ -1,0 +1,88 @@
+# Site settings
+title: Aiden's Corner # site title
+description: >- # site description
+  Currently studying a bachelors degree in Computer Science. Loves video-games and low level programming.
+lang: en-US # default lang
+timezone: Africa/Harare # set your timezone
+image: assets/img/ogp.png # This image used for Open Graph more info https://ogp.me/
+mode: dark # default theme "dark" | "light"
+
+# Profile settings
+author:
+  name: Aiden's Corner # author name
+  bio: >- # tell to the world
+    Hi, my name is Aiden Koorsen. Welcome to my corner of the internet. Please enjoy your stay.
+
+  username: Aiden-Koorsen # general username
+  github: Aiden-Koorsen # github username
+  email: aidenkoorsen@outlook.com # email adress
+  avatar: /assets/img/avatar.jpg # change with your own avatar
+
+# URL settings
+url: "https://aiden-koorsen.github.io" #
+baseurl:
+permalink: /:title/
+google_analytics: # leave it blank if not wish
+fb_appid:
+
+# Collection setting
+collections:
+  posts:
+    output: true
+
+# Markdown settings
+markdown: kramdown
+highlighter: rouge
+kramdown:
+  syntax_highlighter: rouge
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
+      comments: false
+
+# Jekyll Compose default front matter
+jekyll_compose:
+  post_default_front_matter:
+    modified:
+    tags: []
+    description:
+  draft_default_front_matter:
+    modified:
+    tags: []
+    description:
+
+# Homepage limit posts
+number_of_posts: 5
+
+# Build settings
+# theme: klise
+sass:
+  style: compressed
+
+include:
+  - _redirects
+  - .htaccess
+
+exclude:
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - CHANGELOG.md
+  - README.md
+  - node_modules
+  - CODE_OF_CONDUCT.md
+  - CONTRIBUTING.md
+  - lighthouse.png
+  - klise-*.gem
+  - klise.gemspec
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-postfiles
