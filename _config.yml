@@ -1,5 +1,5 @@
 # Site settings
-title: Aiden's Corner # site title
+title: Aiden's Index # site title
 description: >- # site description
   Currently studying a bachelors degree in Computer Science. Loves video-games and low level programming.
 lang: en-US # default lang
@@ -9,13 +9,13 @@ mode: dark # default theme "dark" | "light"
 
 # Profile settings
 author:
-  name: Aiden's Corner # author name
+  name: Aiden's Index # author name
   bio: >- # tell to the world
-    Hi, my name is Aiden Koorsen. Welcome to my corner of the internet. Please enjoy your stay.
+    Hi, my name is Aiden Koorsen. Welcome to my site. Please enjoy your stay.
 
   username: Aiden-Koorsen # general username
   github: Aiden-Koorsen # github username
-  email: aidenkoorsen@outlook.com # email adress
+  email: aidenkoorsen14@gmail.com # email adress
   avatar: /assets/img/avatar.jpg # change with your own avatar
 
 # URL settings
