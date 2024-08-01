@@ -52,11 +52,11 @@ Then an output video or image is given like below:
 
 <hr>
 ##  De Stallen Golf
-![destallen_golf_webpage](/assets/imgs/destallen_golf_webpage.png)
+![destallen_golf_webpage](/assets/img/destallen_golf_webpage.png)
 [This website](https://www.golf.destallen.co.za) I did in a few hours as a challenge for myself in pure HTML and CSS. I started off with a simple template and then from, modified it.
 
 <hr>
 ## De Stallen
-![destallen_webpage](/assets/imgs/destallen_webpage.png)
+![destallen_webpage](/assets/img/destallen_webpage.png)
 I still currently maintain this [site](https://www.destallen.co.za) for whenever updates are needed.
 It uses Wordpress and the site is an average webpage.
