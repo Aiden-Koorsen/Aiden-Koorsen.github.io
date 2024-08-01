@@ -2,9 +2,13 @@
 title: Portfolio
 permalink: /portfolio/
 layout: page
-excerpt: This is my portfolio for potential employers
+excerpt: This is my portfolio for potential employers/clients
 comments: false
 ---
+
+<hr>
+## Links
+[My Github](https://github.com/Aiden-Koorsen)
 
 <hr>
 ## Qualifications
@@ -48,8 +52,11 @@ Then an output video or image is given like below:
 
 <hr>
 ##  De Stallen Golf
-[This website](https://www.golf.destallen.co.za) I did in a few hours as a challenge for myself in pure HTML and CSS. I used a basic template and modified it.
+![destallen_golf_webpage](/assets/imgs/destallen_golf_webpage.png)
+[This website](https://www.golf.destallen.co.za) I did in a few hours as a challenge for myself in pure HTML and CSS. I started off with a simple template and then from, modified it.
 
 <hr>
 ## De Stallen
-I still currently maintain this [site](https://www.destallen.co.za) for whenever updates are needed. It uses Wordpress
+![destallen_webpage](/assets/imgs/destallen_webpage.png)
+I still currently maintain this [site](https://www.destallen.co.za) for whenever updates are needed.
+It uses Wordpress and the site is an average webpage.
